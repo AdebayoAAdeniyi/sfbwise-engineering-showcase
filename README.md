@@ -1,11 +1,11 @@
-# FINWISE: Engineering Showcase
+# SFBwise: Engineering Showcase
 
 **A production web platform I designed, built, secured, tested, and deployed end to end as a solo engineer.**
 
 Live: https://www.strategicfinancialbuilding.ca
 Author: Azeez Adebayo Adeniyi, B.Sc. Computing Science (University of Alberta, 2026), PhD Computational Chemistry
 
-> **About this repository.** This is a technical portfolio of how FINWISE is engineered. It documents architecture, security decisions, deployment, and testing. It intentionally excludes production source, credentials, admin surfaces, and business terms.
+> **About this repository.** This is a technical portfolio of how SFBwise is engineered. It documents architecture, security decisions, deployment, and testing. It intentionally excludes production source, credentials, admin surfaces, and business terms.
 
 ---
 
@@ -208,7 +208,7 @@ Evidence that this is a real, owned, production system rather than a demo:
 
 ## 8. The product these skills serve
 
-FINWISE is a free financial planning tool for Canadian and US families, business owners, and licensed professionals. It helps people see gaps in insurance, registered accounts, debt, and retirement income without creating an account. Calculations follow the LLQP and CSC curriculum and primary government sources such as the CRA, Service Canada, and the IRS, and each figure carries a dated source in an internal methodology document.
+SFBWISE is a free financial planning tool for Canadian and US families, business owners, and licensed professionals. It helps people see gaps in insurance, registered accounts, debt, and retirement income without creating an account. Calculations follow the LLQP and CSC curriculum and primary government sources such as the CRA, Service Canada, and the IRS, and each figure carries a dated source in an internal methodology document.
 
 Areas covered include: life and disability needs analysis, RRSP, TFSA, FHSA, RESP, and US IRA, 401(k), and 529 accounts, CPP, OAS, and Social Security timing, avalanche versus snowball debt payoff, corporate planning such as key person and buy-sell funding, and plain language tax concepts such as marginal versus average tax.
 
@@ -234,4 +234,4 @@ Contact through https://www.strategicfinancialbuilding.ca
 
 ---
 
-*FINWISE is educational software and does not provide personalized financial, tax, legal, or insurance advice.*
+*SFBwise is educational software and does not provide personalized financial, tax, legal, or insurance advice.*
